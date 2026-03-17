@@ -61,10 +61,16 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.10f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\work\skript\enemy\baza\vr_baza.cs" />
+    <Compile Include="Assets\work\skript\player\midle\Pic_Up_weapoint.cs" />
     <Compile Include="Assets\work\skript\player\baza\pl_player.cs" />
+    <Compile Include="Assets\NewPunch\ShirtlessZombieFree\Scripts\FreeZombie_EyesGlow.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\work\skript\enemy\baza\vr_telo.cs" />
     <Compile Include="Assets\work\skript\player\baza\pl_move.cs" />
     <Compile Include="Assets\work\skript\tex\entiti.cs" />
+    <Compile Include="Assets\work\skript\player\midle\gan\gn_baz_mele.cs" />
+    <Compile Include="Assets\work\skript\player\midle\gan\gn_sword.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

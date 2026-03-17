@@ -456,9 +456,15 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/NewPunch/ShirtlessZombieFree/Scripts/FreeZombie_EyesGlow.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
+"Assets/work/skript/enemy/baza/vr_baza.cs"
+"Assets/work/skript/enemy/baza/vr_telo.cs"
 "Assets/work/skript/player/baza/pl_move.cs"
 "Assets/work/skript/player/baza/pl_player.cs"
+"Assets/work/skript/player/midle/gan/gn_baz_mele.cs"
+"Assets/work/skript/player/midle/gan/gn_sword.cs"
+"Assets/work/skript/player/midle/Pic_Up_weapoint.cs"
 "Assets/work/skript/tex/entiti.cs"
 -langversion:9.0
 /deterministic
