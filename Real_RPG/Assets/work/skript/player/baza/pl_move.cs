@@ -1,6 +1,7 @@
 using UnityEngine;
+using UnityEngine.InputSystem.XR;
 
-public class pl_move : MonoBehaviour
+public class pl_move : sound
 {
     private CharacterController _controler => transform.GetComponent<CharacterController>();
 
@@ -11,7 +12,7 @@ public class pl_move : MonoBehaviour
     [SerializeField] private float _speed_run;
     [SerializeField] private float _speed_grav;
     [SerializeField] private float _jump_power;
-
+    private bool razr_walk = true;
 
     [SerializeField] private float mouseSens = 100.0f;
     [SerializeField] private Transform camer;
@@ -27,15 +28,18 @@ public class pl_move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        _mous();
-        run(Input.GetKey(KeyCode.LeftShift));
-        _move();
-        _gravity();
-        _controler.Move(_grav * Time.fixedDeltaTime);
-        _jump();
-
-        _controler.Move(_dvig * Time.fixedDeltaTime);
+        if (razr_walk)
+        {
+            _mous();
+            run(Input.GetKey(KeyCode.LeftShift));
+            _move();
+            _gravity();
+            sit(Input.GetKey(KeyCode.LeftControl));
+            _controler.Move(_grav * Time.fixedDeltaTime);
+            _jump();
+            _controler.Move(_dvig * Time.fixedDeltaTime);
+        }
+        
     }
 
     private void _move()
@@ -44,6 +48,7 @@ public class pl_move : MonoBehaviour
         float z = Input.GetAxis("Vertical");
 
         _dvig = (transform.right * x + transform.forward * z) * _speed_move;
+        if(x != 0 || z != 0)_one_playSound(_sound[0]);
     }
 
     private void _gravity()
@@ -58,7 +63,9 @@ public class pl_move : MonoBehaviour
         {
             _grav.y = _jump_power;
             //print("qwer");
+            playSound(_sound[1]);
         }
+        
     }
 
     private void _mous()
@@ -88,5 +95,13 @@ public class pl_move : MonoBehaviour
     private void run(bool run)
     {
         _speed_move = run ? _speed_run : _speed;
+    }
+    private void sit(bool canSit)
+    {
+        _controler.height = canSit ? 1f : 2f;
+    }
+    public void _nf_walk(bool tip)
+    {
+        razr_walk = tip;
     }
 }

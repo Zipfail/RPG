@@ -32,6 +32,10 @@ public class Pic_Up_weapoint : MonoBehaviour
                 currentWeapon.transform.parent = camer;
                 currentWeapon.transform.localPosition = position.localPosition;
                 currentWeapon.transform.localEulerAngles = povorot;
+
+                if (currentWeapon.GetComponent<gn_baz_mele>()) currentWeapon.transform.localPosition = currentWeapon.GetComponent<gn_baz_mele>().posUp;
+                if (currentWeapon.GetComponent<gn_baz_mele>()) currentWeapon.transform.localEulerAngles = currentWeapon.GetComponent<gn_baz_mele>().rotation;
+
                 canPickUp = true;
             }
         }
