@@ -124,6 +124,13 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Readme",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "",
             "nativeClass": "ResourceManager",
             "fullManagedTypeName": "",
@@ -149,6 +156,13 @@
             "nativeClass": "StreamingManager",
             "fullManagedTypeName": "",
             "moduleName": "Streaming",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.AI.Navigation.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "Unity.AI.Navigation.NavMeshSurface",
+            "moduleName": "",
             "usedInScenes": []
         },
         {
@@ -231,6 +245,24 @@
             "fullManagedTypeName": "UnityEditor.VFXManager",
             "moduleName": "VFX",
             "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "NavMeshAgent",
+            "fullManagedTypeName": "UnityEngine.AI.NavMeshAgent",
+            "moduleName": "AI",
+            "usedInScenes": [
+                "Assets/work/sinse/test.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "NavMeshData",
+            "fullManagedTypeName": "UnityEngine.AI.NavMeshData",
+            "moduleName": "AI",
+            "usedInScenes": [
+                "Assets/work/sinse/test.unity"
+            ]
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
@@ -390,7 +422,9 @@
             "nativeClass": "ComputeShader",
             "fullManagedTypeName": "UnityEngine.ComputeShader",
             "moduleName": "Core",
-            "usedInScenes": []
+            "usedInScenes": [
+                "Assets/work/sinse/test.unity"
+            ]
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
@@ -1004,15 +1038,6 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "SphereCollider",
-            "fullManagedTypeName": "UnityEngine.SphereCollider",
-            "moduleName": "Physics",
-            "usedInScenes": [
-                "Assets/work/sinse/test.unity"
-            ]
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Sprite",
             "fullManagedTypeName": "UnityEngine.Sprite",
             "moduleName": "Core",
@@ -1192,6 +1217,13 @@
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
             "fullManagedTypeName": "vr_baza",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "vr_move",
             "moduleName": "",
             "usedInScenes": []
         },

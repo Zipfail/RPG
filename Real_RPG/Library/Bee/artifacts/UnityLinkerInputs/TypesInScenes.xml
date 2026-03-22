@@ -5,8 +5,13 @@
 		<type fullname="options" preserve="nothing"/>
 		<type fullname="Pic_Up_weapoint" preserve="nothing"/>
 		<type fullname="pl_move" preserve="nothing"/>
+		<type fullname="Readme" preserve="nothing"/>
 		<type fullname="vr_baza" preserve="nothing"/>
+		<type fullname="vr_move" preserve="nothing"/>
 		<type fullname="vr_telo" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.AI.Navigation">
+		<type fullname="Unity.AI.Navigation.NavMeshSurface" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.InputSystem">
 		<type fullname="UnityEngine.InputSystem.InputActionAsset" preserve="nothing"/>
@@ -89,6 +94,8 @@
 		<type fullname="UnityEditor.TimeManager" preserve="nothing"/>
 		<type fullname="UnityEditor.UnityConnectSettings" preserve="nothing"/>
 		<type fullname="UnityEditor.VFXManager" preserve="nothing"/>
+		<type fullname="UnityEngine.AI.NavMeshAgent" preserve="nothing"/>
+		<type fullname="UnityEngine.AI.NavMeshData" preserve="nothing"/>
 		<type fullname="UnityEngine.AnimationClip" preserve="nothing"/>
 		<type fullname="UnityEngine.Animator" preserve="nothing"/>
 		<type fullname="UnityEngine.Audio.AudioResource" preserve="nothing"/>
@@ -127,7 +134,6 @@
 		<type fullname="UnityEngine.RuntimeAnimatorController" preserve="nothing"/>
 		<type fullname="UnityEngine.Shader" preserve="nothing"/>
 		<type fullname="UnityEngine.SkinnedMeshRenderer" preserve="nothing"/>
-		<type fullname="UnityEngine.SphereCollider" preserve="nothing"/>
 		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
 		<type fullname="UnityEngine.Terrain" preserve="nothing"/>
 		<type fullname="UnityEngine.TerrainCollider" preserve="nothing"/>

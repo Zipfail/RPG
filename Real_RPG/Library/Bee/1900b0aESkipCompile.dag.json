@@ -29,7 +29,7 @@
       "DisplayName": "Writing 6097564273297756792.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 8061,
+      "PayloadLength": 13213,
       "PayloadDebugContentSnippet": "-a=\"C:\\Users\\skond\\OneDrive\\Д",
       "Inputs": [],
       "InputFlags": [],
@@ -49,8 +49,28 @@
         "C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/netcorerun/netcorerun.exe",
         "C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/Tools/BuildPipeline/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
         "Library/ScriptAssemblies/Assembly-CSharp.dll",
+        "Library/ScriptAssemblies/glTFast.dll",
+        "Library/ScriptAssemblies/glTFast.Documentation.Examples.dll",
+        "Library/ScriptAssemblies/glTFast.dots.dll",
+        "Library/ScriptAssemblies/glTFast.Export.dll",
+        "Library/ScriptAssemblies/glTFast.Newtonsoft.dll",
+        "Library/ScriptAssemblies/Unity.AI.Animate.Motion.Runtime.dll",
+        "Library/ScriptAssemblies/Unity.AI.Assistant.Runtime.dll",
+        "Library/ScriptAssemblies/Unity.AI.MCP.Runtime.dll",
+        "Library/ScriptAssemblies/Unity.AI.Navigation.dll",
+        "Library/ScriptAssemblies/Unity.AI.Tracing.dll",
+        "Library/ScriptAssemblies/Unity.AppUI.dll",
+        "Library/ScriptAssemblies/Unity.AppUI.InternalAPIBridge.dll",
+        "Library/ScriptAssemblies/Unity.AppUI.MVVM.dll",
+        "Library/ScriptAssemblies/Unity.AppUI.Navigation.dll",
+        "Library/ScriptAssemblies/Unity.AppUI.Redux.dll",
+        "Library/ScriptAssemblies/Unity.AppUI.Undo.dll",
         "Library/ScriptAssemblies/Unity.Burst.dll",
         "Library/ScriptAssemblies/Unity.Collections.dll",
+        "Library/ScriptAssemblies/Unity.InferenceEngine.dll",
+        "Library/ScriptAssemblies/Unity.InferenceEngine.iOSBLAS.dll",
+        "Library/ScriptAssemblies/Unity.InferenceEngine.MacBLAS.dll",
+        "Library/ScriptAssemblies/Unity.InferenceEngine.Tokenization.dll",
         "Library/ScriptAssemblies/Unity.InputSystem.dll",
         "Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll",
         "Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll",
@@ -65,6 +85,7 @@
         "Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll",
         "Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll",
         "Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
+        "Library/ScriptAssemblies/Unity.Serialization.dll",
         "Library/ScriptAssemblies/Unity.TextMeshPro.dll",
         "Library/ScriptAssemblies/Unity.Timeline.dll",
         "Library/ScriptAssemblies/Unity.UnifiedRayTracing.Runtime.dll",
@@ -75,6 +96,19 @@
         "Library/ScriptAssemblies/Unity.VisualScripting.State.dll",
         "Library/ScriptAssemblies/UnityEngine.TestRunner.dll",
         "Library/ScriptAssemblies/UnityEngine.UI.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/CodeAnalysis/Microsoft.CodeAnalysis.CSharp.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/CodeAnalysis/Microsoft.CodeAnalysis.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Markdig/Markdig.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/Google.Protobuf.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/Microsoft.Bcl.AsyncInterfaces.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/Microsoft.Bcl.HashCode.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/Microsoft.Bcl.Memory.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Collections.Immutable.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Reflection.Metadata.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Runtime.CompilerServices.Unsafe.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Text.Encodings.Web.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Text.Json.dll",
+        "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Tokenizer/Microsoft.ML.Tokenizers.dll",
         "Library/PackageCache/com.unity.burst@07790c2d06d9/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll",
         "Library/PackageCache/com.unity.burst@07790c2d06d9/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll",
         "Library/PackageCache/com.unity.burst@07790c2d06d9/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll",
@@ -82,17 +116,51 @@
         "Library/PackageCache/com.unity.burst@07790c2d06d9/Unity.Burst.Unsafe.dll",
         "Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll",
         "Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.Tests/System.IO.Hashing/System.IO.Hashing.dll",
-        "Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.Tests/System.Runtime.CompilerServices.Unsafe/System.Runtime.CompilerServices.Unsafe.dll",
         "Library/PackageCache/com.unity.ext.nunit@d8c07649098d/net40/unity-custom/nunit.framework.dll",
         "Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.dll",
         "Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.Mdb.dll",
         "Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.Pdb.dll",
         "Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.Rocks.dll",
+        "Library/PackageCache/com.unity.nuget.newtonsoft-json@4dfd81071c64/Runtime/Newtonsoft.Json.dll",
         "Library/PackageCache/com.unity.testtools.codecoverage@19a841221620/lib/ReportGenerator/ReportGeneratorMerged.dll",
-        "Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "Library/Bee/artifacts/rsp/6097564273297756792.rsp"
       ],
       "InputFlags": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -289,6 +357,45 @@
       "File": "Library/Bee/1900b0aESkipCompile-inputdata.json"
     },
     {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/CodeAnalysis/Microsoft.CodeAnalysis.CSharp.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/CodeAnalysis/Microsoft.CodeAnalysis.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Markdig/Markdig.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/Google.Protobuf.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/Microsoft.Bcl.HashCode.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/Microsoft.Bcl.Memory.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Collections.Immutable.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Reflection.Metadata.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Runtime.CompilerServices.Unsafe.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Text.Encodings.Web.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Shared/System.Text.Json.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ai.assistant@df09423d72a0/Plugins/Tokenizer/Microsoft.ML.Tokenizers.dll"
+    },
+    {
       "File": "Library/PackageCache/com.unity.burst@07790c2d06d9/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll"
     },
     {
@@ -310,9 +417,6 @@
       "File": "Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.Tests/System.IO.Hashing/System.IO.Hashing.dll"
     },
     {
-      "File": "Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.Tests/System.Runtime.CompilerServices.Unsafe/System.Runtime.CompilerServices.Unsafe.dll"
-    },
-    {
       "File": "Library/PackageCache/com.unity.ext.nunit@d8c07649098d/net40/unity-custom/nunit.framework.dll"
     },
     {
@@ -328,19 +432,82 @@
       "File": "Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Mono.Cecil.Rocks.dll"
     },
     {
+      "File": "Library/PackageCache/com.unity.nuget.newtonsoft-json@4dfd81071c64/Runtime/Newtonsoft.Json.dll"
+    },
+    {
       "File": "Library/PackageCache/com.unity.testtools.codecoverage@19a841221620/lib/ReportGenerator/ReportGeneratorMerged.dll"
     },
     {
-      "File": "Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+      "File": "Library/PackageCache/com.unity.visualscripting@8bed5ad90189/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
     },
     {
       "File": "Library/ScriptAssemblies/Assembly-CSharp.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/glTFast.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/glTFast.Documentation.Examples.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/glTFast.dots.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/glTFast.Export.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/glTFast.Newtonsoft.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AI.Animate.Motion.Runtime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AI.Assistant.Runtime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AI.MCP.Runtime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AI.Navigation.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AI.Tracing.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AppUI.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AppUI.InternalAPIBridge.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AppUI.MVVM.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AppUI.Navigation.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AppUI.Redux.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AppUI.Undo.dll"
     },
     {
       "File": "Library/ScriptAssemblies/Unity.Burst.dll"
     },
     {
       "File": "Library/ScriptAssemblies/Unity.Collections.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.InferenceEngine.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.InferenceEngine.iOSBLAS.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.InferenceEngine.MacBLAS.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.InferenceEngine.Tokenization.dll"
     },
     {
       "File": "Library/ScriptAssemblies/Unity.InputSystem.dll"
@@ -383,6 +550,9 @@
     },
     {
       "File": "Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.Serialization.dll"
     },
     {
       "File": "Library/ScriptAssemblies/Unity.TextMeshPro.dll"

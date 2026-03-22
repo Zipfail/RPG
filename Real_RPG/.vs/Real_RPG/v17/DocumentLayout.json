@@ -3,7 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\rpg\\real_rpg\\assets\\work\\skript\\tex\\bac_sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\rpg\\real_rpg\\assets\\work\\skript\\enemy\\midle\\vr_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\enemy\\midle\\vr_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\enemy\\baza\\vr_telo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\enemy\\baza\\vr_telo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\tex\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\baza\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\baza\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\baza\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\baza\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\midle\\pic_up_weapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\midle\\pic_up_weapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\enemy\\baza\\vr_baza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\enemy\\baza\\vr_baza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\midle\\gan\\gn_sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\midle\\gan\\gn_sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\midle\\gan\\gn_baz_mele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\midle\\gan\\gn_baz_mele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\tex\\bac_sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\bac_sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,40 +47,8 @@
       "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|c:\\users\\skond\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\rpg\\real_rpg\\assets\\work\\skript\\tex\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\baza\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\baza\\pl_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\midle\\gan\\gn_baz_mele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\midle\\gan\\gn_baz_mele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\midle\\pic_up_weapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\midle\\pic_up_weapoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\baza\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\baza\\pl_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\tex\\entiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\tex\\entiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\player\\midle\\gan\\gn_sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\player\\midle\\gan\\gn_sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\enemy\\baza\\vr_baza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\enemy\\baza\\vr_baza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\assets\\work\\skript\\enemy\\baza\\vr_telo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CA2ED1-E196-8EC3-269B-9560B7F7452D}|Assembly-CSharp.csproj|solutionrelative:assets\\work\\skript\\enemy\\baza\\vr_telo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,6 +67,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "vr_move.cs",
+              "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\enemy\\midle\\vr_move.cs",
+              "RelativeDocumentMoniker": "Assets\\work\\skript\\enemy\\midle\\vr_move.cs",
+              "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\enemy\\midle\\vr_move.cs",
+              "RelativeToolTip": "Assets\\work\\skript\\enemy\\midle\\vr_move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T07:42:19.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "bac_sound.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\tex\\bac_sound.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\bac_sound.cs",
@@ -70,8 +87,7 @@
               "RelativeToolTip": "Assets\\work\\skript\\tex\\bac_sound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T19:45:59.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T19:45:59.029Z"
             },
             {
               "$type": "Document",
@@ -83,12 +99,11 @@
               "RelativeToolTip": "Assets\\work\\skript\\tex\\options.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAMwBQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T19:23:05.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T19:23:05.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "sound.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\tex\\sound.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\sound.cs",
@@ -96,12 +111,11 @@
               "RelativeToolTip": "Assets\\work\\skript\\tex\\sound.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T16:35:17.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-19T16:35:17.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "vr_telo.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\enemy\\baza\\vr_telo.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\enemy\\baza\\vr_telo.cs",
@@ -113,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "vr_baza.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\enemy\\baza\\vr_baza.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\enemy\\baza\\vr_baza.cs",
@@ -125,19 +139,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "gn_sword.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\player\\midle\\gan\\gn_sword.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\midle\\gan\\gn_sword.cs",
               "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\player\\midle\\gan\\gn_sword.cs",
               "RelativeToolTip": "Assets\\work\\skript\\player\\midle\\gan\\gn_sword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T14:35:53.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "gn_baz_mele.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\player\\midle\\gan\\gn_baz_mele.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\midle\\gan\\gn_baz_mele.cs",
@@ -145,8 +159,7 @@
               "RelativeToolTip": "Assets\\work\\skript\\player\\midle\\gan\\gn_baz_mele.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T14:27:22.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T14:27:22.327Z"
             },
             {
               "$type": "Document",
@@ -158,12 +171,11 @@
               "RelativeToolTip": "Assets\\work\\skript\\player\\midle\\Pic_Up_weapoint.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwB4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T17:47:15.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T17:47:15.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "entiti.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\tex\\entiti.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\tex\\entiti.cs",
@@ -175,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "pl_player.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\player\\baza\\pl_player.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\baza\\pl_player.cs",
@@ -183,21 +195,19 @@
               "RelativeToolTip": "Assets\\work\\skript\\player\\baza\\pl_player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T12:57:48.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T12:57:48.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "pl_move.cs",
               "DocumentMoniker": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\player\\baza\\pl_move.cs",
               "RelativeDocumentMoniker": "Assets\\work\\skript\\player\\baza\\pl_move.cs",
               "ToolTip": "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Assets\\work\\skript\\player\\baza\\pl_move.cs",
               "RelativeToolTip": "Assets\\work\\skript\\player\\baza\\pl_move.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwDsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T12:39:02.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T12:39:02.033Z"
             }
           ]
         }
