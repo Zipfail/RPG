@@ -71,11 +71,9 @@ public class vr_move : MonoBehaviour
             case 1: //за игроком
                 distance = distance_baza;
                 agent.stoppingDistance = distance_baza;
-                print(distance_baza);
                 target = player;
                 if (Vector3.Distance(target.position, transform.position) <= distance)
                 {
-                    print("gewr");
                     Quaternion targetRotation = Quaternion.LookRotation(direction);
                     transform.rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, agent.angularSpeed * Time.deltaTime);
                 }

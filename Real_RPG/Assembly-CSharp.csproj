@@ -72,6 +72,8 @@
     <Compile Include="Assets\NewPunch\ShirtlessZombieFree\Scripts\FreeZombie_EyesGlow.cs" />
     <Compile Include="Assets\work\skript\player\baza\pl_move.cs" />
     <Compile Include="Assets\work\skript\tex\entiti.cs" />
+    <Compile Include="Assets\work\skript\player\midle\gan\gan\gn_baza_dal.cs" />
+    <Compile Include="Assets\work\skript\player\midle\gan\gan\gn_vintovka.cs" />
     <Compile Include="Assets\work\skript\tex\sound.cs" />
     <Compile Include="Assets\work\skript\tex\options.cs" />
     <Compile Include="Assets\Blink\Art\Animals\Stylized\Demo_Animals\DemoData\AnimationDemo.cs" />
