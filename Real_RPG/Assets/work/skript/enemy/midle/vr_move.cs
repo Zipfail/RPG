@@ -13,6 +13,7 @@ public class vr_move : MonoBehaviour
     [SerializeField] private float max_ray;
     [SerializeField] private float distance_stop;
     [SerializeField] private Transform obnur;
+    [SerializeField] private Animator anim;
     private float timer;
     private int count;
     private NavMeshAgent agent =>transform.GetComponent<NavMeshAgent>();
@@ -27,6 +28,7 @@ public class vr_move : MonoBehaviour
         obnur.rotation = Quaternion.Euler(obnur.eulerAngles*-1);
         distance_baza = agent.stoppingDistance;
         player = GameObject.FindGameObjectWithTag("player").transform;
+        anim.SetBool("move",true);
     }
     
     // Update is called once per frame
@@ -53,7 +55,6 @@ public class vr_move : MonoBehaviour
                         if(count < targets.Count()-1)
                         {
                             count++;
-                            print(count);
                         }
                         else
                         {

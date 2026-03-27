@@ -3,8 +3,12 @@ using UnityEngine;
 abstract public class entiti : MonoBehaviour
 {
     [SerializeField]protected float xp;
-    protected float max_xp => xp;
+    protected float max_xp;
     [SerializeField]protected float armor;
+    public void Start()
+    {
+        max_xp = xp;
+    }
     protected void Update()
     {
         if(xp <= 0)
