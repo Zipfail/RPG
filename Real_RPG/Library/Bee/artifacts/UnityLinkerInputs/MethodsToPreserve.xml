@@ -1,4 +1,88 @@
 <linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="inv_slot">
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+			<method name="go_to_vzaim"/>
+		</type>
+		<type fullname="ss_smena_loki">
+			<method name="smen"/>
+			<method name="smen"/>
+		</type>
+		<type fullname="SUI_baza_smen_lok">
+			<method name="smen_lok"/>
+			<method name="smen_lok"/>
+		</type>
+		<type fullname="UI_baza">
+			<method name="window_off"/>
+			<method name="window_off"/>
+			<method name="window_off"/>
+			<method name="window_off"/>
+			<method name="window_off"/>
+			<method name="window_off"/>
+			<method name="window_off"/>
+			<method name="window_off"/>
+		</type>
+		<type fullname="UITL_baz_tool">
+			<method name="exit"/>
+			<method name="exit"/>
+			<method name="exit"/>
+			<method name="exit"/>
+		</type>
+	</assembly>
 	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
 		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
 			<method name="OnAction"/>

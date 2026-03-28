@@ -1,9 +1,9 @@
-using Unity.AppUI.UI;
 using UnityEngine;
 
 public class pl_player : entiti
 {
-    private int yr;
+    [SerializeField] private float yr;
+    [SerializeField] private int money;
     private UI_baza UI => GameObject.FindGameObjectWithTag("UI").GetComponent<UI_baza>();
     private pl_move move => transform.GetComponent<pl_move>();
     private bool meni_bool = true;
@@ -77,6 +77,22 @@ public class pl_player : entiti
                 }
                _interact_e=true;
             }
+            else if(hit.transform.GetComponent<UI_zapispa>())
+            {
+                if (Input.GetKeyDown(KeyCode.E))
+                {
+                    hit.transform.GetComponent<UI_zapispa>()._used();
+                }
+                _interact_e = true;
+            }
+            else if (hit.transform.GetComponent<UI_dialog>())
+            {
+                if (Input.GetKeyDown(KeyCode.E))
+                {
+                    hit.transform.GetComponent<UI_dialog>()._start_diolog();
+                }
+                _interact_e = true;
+            }
         }
 
     }
@@ -87,4 +103,17 @@ public class pl_player : entiti
     {
         print("player death");
     }
+
+    public void _add_ex(float yy)
+    {
+        yr += yy;
+    }
+    public void _add_money(int mone)
+    {
+        if (mone > 0)
+        {
+            money += mone;
+        }
+    }
+
 }

@@ -1,12 +1,11 @@
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class inv_slot : MonoBehaviour
 {
-    private inv_item item;
-    private int _call;
+    public inv_item item;
+    public int _call;
     [SerializeField] private Transform vzaim;
     [SerializeField] private Transform spavn;
     public void _add_item(inv_item items)
@@ -21,7 +20,7 @@ public class inv_slot : MonoBehaviour
         }
         else
         {
-            item = Instantiate(items,new Vector3(0,-100,0), transform.rotation);
+            item = Instantiate(items,new Vector3(0,-100,0), transform.rotation,transform);
             //item.GetComponent<Renderer>().enabled = false;
             _call = 1;
             
@@ -75,10 +74,14 @@ public class inv_slot : MonoBehaviour
         {
             print("drop");
             _call--;
-            Instantiate(item, spavn.position, spavn.rotation);
+            Instantiate(item,spavn.position, spavn.rotation);
             //item.GetComponent<Renderer>().enabled = true;
 
         }
+    }
+    public void _delet_items()
+    {
+        _call--;    
     }
     public void used_item()
     {

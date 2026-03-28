@@ -23,11 +23,20 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "dont_destro_on_load",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "",
             "nativeClass": "EditorExtension",
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -37,6 +46,8 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -62,13 +73,64 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "inv_baza",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "inv_slot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "item_medkit",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "kv_kvest_item",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "kv_nagrada_smen_bool",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "kv_nagrada_sot",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "",
             "nativeClass": "LevelGameManager",
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ms_door",
+            "moduleName": "",
+            "usedInScenes": []
         },
         {
             "managedAssemblyName": "",
@@ -83,6 +145,8 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -99,6 +163,8 @@
             "fullManagedTypeName": "",
             "moduleName": "AI",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -131,6 +197,13 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "pl_player",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "",
             "nativeClass": "ResourceManager",
             "fullManagedTypeName": "",
@@ -149,6 +222,20 @@
             "nativeClass": "ShaderNameRegistry",
             "fullManagedTypeName": "",
             "moduleName": "Core",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ss_baza_smen_sine",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "ss_smena_loki",
+            "moduleName": "",
             "usedInScenes": []
         },
         {
@@ -208,6 +295,27 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UI_dialog",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UI_zapispa",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UITL_baz_tool",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "Unity.AI.Navigation.dll",
             "nativeClass": "",
             "fullManagedTypeName": "Unity.AI.Navigation.NavMeshSurface",
@@ -250,6 +358,7 @@
             "fullManagedTypeName": "UnityEditor.MonoScript",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -337,6 +446,7 @@
             "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -346,6 +456,7 @@
             "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -355,6 +466,7 @@
             "fullManagedTypeName": "UnityEngine.AudioBehaviour",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -364,6 +476,7 @@
             "fullManagedTypeName": "UnityEngine.AudioClip",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -373,6 +486,7 @@
             "fullManagedTypeName": "UnityEngine.AudioListener",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -382,6 +496,7 @@
             "fullManagedTypeName": "UnityEngine.AudioSource",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -391,6 +506,7 @@
             "fullManagedTypeName": "UnityEngine.Behaviour",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -400,6 +516,7 @@
             "fullManagedTypeName": "UnityEngine.BoxCollider",
             "moduleName": "Physics",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -409,6 +526,7 @@
             "fullManagedTypeName": "UnityEngine.Camera",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -418,6 +536,7 @@
             "fullManagedTypeName": "UnityEngine.Canvas",
             "moduleName": "UI",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -427,6 +546,7 @@
             "fullManagedTypeName": "UnityEngine.CanvasRenderer",
             "moduleName": "UI",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -436,6 +556,7 @@
             "fullManagedTypeName": "UnityEngine.CapsuleCollider",
             "moduleName": "Physics",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -445,6 +566,7 @@
             "fullManagedTypeName": "UnityEngine.CharacterController",
             "moduleName": "Physics",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -454,6 +576,7 @@
             "fullManagedTypeName": "UnityEngine.Collider",
             "moduleName": "Physics",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -463,6 +586,7 @@
             "fullManagedTypeName": "UnityEngine.Component",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -472,7 +596,7 @@
             "fullManagedTypeName": "UnityEngine.ComputeShader",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -480,7 +604,10 @@
             "nativeClass": "Cubemap",
             "fullManagedTypeName": "UnityEngine.Cubemap",
             "moduleName": "Core",
-            "usedInScenes": []
+            "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity"
+            ]
         },
         {
             "managedAssemblyName": "UnityEngine.UI.dll",
@@ -497,11 +624,19 @@
             "usedInScenes": []
         },
         {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.EventSystems.StandaloneInputModule",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
             "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Font",
             "fullManagedTypeName": "UnityEngine.Font",
             "moduleName": "TextRendering",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -511,6 +646,7 @@
             "fullManagedTypeName": "UnityEngine.GameObject",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -518,13 +654,6 @@
             "managedAssemblyName": "Unity.InputSystem.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.InputSystem.InputActionAsset",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Unity.InputSystem.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.InputSystem.InputActionReference",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -550,13 +679,6 @@
             "usedInScenes": []
         },
         {
-            "managedAssemblyName": "Unity.InputSystem.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.InputSystem.UI.InputSystemUIInputModule",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
             "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Light",
             "fullManagedTypeName": "UnityEngine.Light",
@@ -571,6 +693,8 @@
             "fullManagedTypeName": "UnityEngine.LightmapSettings",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -580,6 +704,7 @@
             "fullManagedTypeName": "UnityEngine.Material",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -589,6 +714,7 @@
             "fullManagedTypeName": "UnityEngine.Mesh",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -598,6 +724,7 @@
             "fullManagedTypeName": "UnityEngine.MeshFilter",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -607,6 +734,7 @@
             "fullManagedTypeName": "UnityEngine.MeshRenderer",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -616,6 +744,7 @@
             "fullManagedTypeName": "UnityEngine.MonoBehaviour",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -634,6 +763,8 @@
             "fullManagedTypeName": "UnityEngine.Object",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -650,6 +781,7 @@
             "fullManagedTypeName": "UnityEngine.RectTransform",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -659,6 +791,7 @@
             "fullManagedTypeName": "UnityEngine.Renderer",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -1067,6 +1200,8 @@
             "fullManagedTypeName": "UnityEngine.RenderSettings",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -1094,6 +1229,7 @@
             "fullManagedTypeName": "UnityEngine.Shader",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -1112,6 +1248,7 @@
             "fullManagedTypeName": "UnityEngine.Sprite",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -1148,6 +1285,7 @@
             "fullManagedTypeName": "UnityEngine.TextAsset",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -1157,6 +1295,8 @@
             "fullManagedTypeName": "UnityEngine.Texture",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -1166,6 +1306,8 @@
             "fullManagedTypeName": "UnityEngine.Texture2D",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/main_menu.unity",
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -1182,6 +1324,7 @@
             "fullManagedTypeName": "UnityEngine.Transform",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/start_game.unity",
                 "Assets/work/sinse/test.unity"
             ]
         },
@@ -1216,6 +1359,13 @@
         {
             "managedAssemblyName": "UnityEngine.UI.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.GridLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.UI.HorizontalLayoutGroup",
             "moduleName": "",
             "usedInScenes": []
@@ -1238,6 +1388,13 @@
             "managedAssemblyName": "UnityEngine.UI.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.UI.Mask",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "UnityEngine.UI.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.UI.RawImage",
             "moduleName": "",
             "usedInScenes": []
         },

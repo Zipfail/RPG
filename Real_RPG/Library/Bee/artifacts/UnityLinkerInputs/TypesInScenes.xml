@@ -1,12 +1,26 @@
 <linker>
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="bac_sound" preserve="nothing"/>
+		<type fullname="dont_destro_on_load" preserve="nothing"/>
 		<type fullname="gn_sword" preserve="nothing"/>
 		<type fullname="gn_vintovka" preserve="nothing"/>
+		<type fullname="inv_baza" preserve="nothing"/>
+		<type fullname="inv_slot" preserve="nothing"/>
+		<type fullname="item_medkit" preserve="nothing"/>
+		<type fullname="kv_kvest_item" preserve="nothing"/>
+		<type fullname="kv_nagrada_smen_bool" preserve="nothing"/>
+		<type fullname="kv_nagrada_sot" preserve="nothing"/>
+		<type fullname="ms_door" preserve="nothing"/>
 		<type fullname="options" preserve="nothing"/>
 		<type fullname="Pic_Up_weapoint" preserve="nothing"/>
 		<type fullname="pl_move" preserve="nothing"/>
+		<type fullname="pl_player" preserve="nothing"/>
+		<type fullname="ss_baza_smen_sine" preserve="nothing"/>
+		<type fullname="ss_smena_loki" preserve="nothing"/>
 		<type fullname="UI_baza" preserve="nothing"/>
+		<type fullname="UI_dialog" preserve="nothing"/>
+		<type fullname="UI_zapispa" preserve="nothing"/>
+		<type fullname="UITL_baz_tool" preserve="nothing"/>
 		<type fullname="vr_baza" preserve="nothing"/>
 		<type fullname="vr_move" preserve="nothing"/>
 		<type fullname="vr_telo" preserve="nothing"/>
@@ -16,11 +30,9 @@
 	</assembly>
 	<assembly fullname="Unity.InputSystem">
 		<type fullname="UnityEngine.InputSystem.InputActionAsset" preserve="nothing"/>
-		<type fullname="UnityEngine.InputSystem.InputActionReference" preserve="nothing"/>
 		<type fullname="UnityEngine.InputSystem.InputSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.InputSystem.InputSystemObject" preserve="nothing"/>
 		<type fullname="UnityEngine.InputSystem.RemoteInputPlayerConnection" preserve="nothing"/>
-		<type fullname="UnityEngine.InputSystem.UI.InputSystemUIInputModule" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.RenderPipelines.Core.Runtime">
 		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerBitField" preserve="nothing"/>
@@ -158,14 +170,17 @@
 	<assembly fullname="UnityEngine.UI">
 		<type fullname="UnityEngine.EventSystems.EventSystem" preserve="nothing"/>
 		<type fullname="UnityEngine.EventSystems.EventTrigger" preserve="nothing"/>
+		<type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Button" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.CanvasScaler" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.ContentSizeFitter" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.GraphicRaycaster" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.GridLayoutGroup" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Image" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.LayoutElement" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Mask" preserve="nothing"/>
+		<type fullname="UnityEngine.UI.RawImage" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Scrollbar" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.ScrollRect" preserve="nothing"/>
 		<type fullname="UnityEngine.UI.Text" preserve="nothing"/>

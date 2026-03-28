@@ -12,7 +12,7 @@ public class Pic_Up_weapoint : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.E)) PicUp();
-        if (Input.GetKeyDown(KeyCode.Q)) Drop();
+        if (Input.GetKeyDown(KeyCode.Q) && currentWeapon != null) Drop();
     }
 
     void PicUp()
