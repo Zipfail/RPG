@@ -607,7 +607,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4599164525568944159
 Transform:
   m_ObjectHideFlags: 0
@@ -645,7 +645,7 @@ MonoBehaviour:
   _speed_run: 20
   _speed_grav: 1
   _jump_power: 20
-  _max_stamina: 50
+  _max_stamina: 1000
   _stamina: 0
   mouseSens: 300
   camer: {fileID: 8222750450423569089}
@@ -855,7 +855,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::options
   volume_sound: 0
-  okrug: 0.5
+  okrug: 1
 --- !u!1 &9017253039483835264
 GameObject:
   m_ObjectHideFlags: 0

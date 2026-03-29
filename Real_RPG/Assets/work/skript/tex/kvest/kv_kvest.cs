@@ -4,7 +4,7 @@ using UnityEngine.Rendering;
 
 abstract public class kv_kvest : MonoBehaviour
 {
-    [SerializeField] protected bool konec;
+    [SerializeField] public bool konec;
     protected bool nagrada_bool = false;
     [SerializeField] private List<kv_nagrada> nagrada;
     public void _endcvest()

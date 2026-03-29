@@ -15,6 +15,7 @@ public class pl_move : sound
 
     [SerializeField] private float _max_stamina;
     [SerializeField] public float _stamina;
+    private bool xod = true;
     private int cal_treat_stamina = 1;
 
     private bool razr_walk = true;
@@ -40,8 +41,24 @@ public class pl_move : sound
         {
             _mous();
             run(Input.GetKey(KeyCode.LeftShift));
-            if(_stamina > _max_stamina/3)_move();
-            else _dvig = Vector3.zero;
+
+            if (_stamina <= 1)
+            {
+                xod = false;
+            }
+
+            if(xod)
+            {
+                _move();
+            }
+            else
+            {
+                if(_stamina >= _max_stamina /3)
+                {
+                    xod = true;
+                }
+                _dvig = Vector3.zero;
+            }
             _gravity();
             sit(Input.GetKey(KeyCode.LeftControl));
             _controler.Move(_grav * Time.fixedDeltaTime);
@@ -77,7 +94,7 @@ public class pl_move : sound
             _grav.y = _jump_power;
             //print("qwer");
             playSound(_sound[1]);
-            _control_stamina(_max_stamina / 4,false);
+            _control_stamina(10,false);
         }
         
     }

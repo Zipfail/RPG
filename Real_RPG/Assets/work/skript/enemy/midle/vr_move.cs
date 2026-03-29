@@ -1,4 +1,5 @@
 using System.Linq;
+using UnityEditor.Rendering;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -9,6 +10,10 @@ public class vr_move : MonoBehaviour
     [SerializeField] private Transform[] targets;
     [SerializeField] private float time_stop;
     [SerializeField] private float distance_hit;
+    [SerializeField] private float distance_ydar;
+    [SerializeField] private float speed_ydar;
+    [SerializeField] private float damag;
+    private float speed;
     [SerializeField] private float min_ray;
     [SerializeField] private float max_ray;
     [SerializeField] private float distance_stop;
@@ -35,12 +40,50 @@ public class vr_move : MonoBehaviour
     void Update()
     {
         look();
+        /*
+                RaycastHit hit;
+                if (Physics.Raycast(obnur.position, obnur.forward, out hit, distance_ydar))
+                {
 
+                    if (hit.transform.tag == "player")
+                    {
+                        if (speed_ydar < speed)
+                        {
+                            speed = 0;
+                            anim.SetTrigger("atac");
+                            print(anim.GetCurrentAnimatorClipInfo(0).Count());
+                        }
+                        else {
+                            speed += Time.fixedDeltaTime;
+                        }
 
+                    }
 
+                }
+                    */
+        RaycastHit hit;
+        if (Physics.Raycast(obnur.position, obnur.forward, out hit, distance_ydar))
+        {
+
+            if (hit.transform.tag == "player")
+            {
+                if (speed_ydar < speed)
+                {
+                    speed = 0;
+                    anim.SetTrigger("atac");
+                    hit.transform.GetComponent<pl_player>()._damag(damag);
+                }
+                else
+                {
+                    speed += Time.fixedDeltaTime;
+                }
+
+            }
+
+        }
         Vector3 direction = target.position - transform.position;
         direction.y = 0f; // ограничение по оси Y
-        
+       
         switch (sost)
         {
             case 0: //за таргетом

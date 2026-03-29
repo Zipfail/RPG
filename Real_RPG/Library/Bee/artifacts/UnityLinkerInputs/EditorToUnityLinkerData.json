@@ -35,9 +35,9 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -46,9 +46,9 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -62,13 +62,6 @@
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
             "fullManagedTypeName": "gn_sword",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Assembly-CSharp.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "gn_vintovka",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -89,7 +82,7 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "item_medkit",
+            "fullManagedTypeName": "item_xolder",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -97,6 +90,13 @@
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
             "fullManagedTypeName": "kv_kvest_item",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Assembly-CSharp.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "kv_kvest_kill_entiti",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -120,9 +120,9 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -145,9 +145,9 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -163,9 +163,9 @@
             "fullManagedTypeName": "",
             "moduleName": "AI",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -304,7 +304,7 @@
         {
             "managedAssemblyName": "Assembly-CSharp.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "UI_zapispa",
+            "fullManagedTypeName": "UI_human",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -328,7 +328,7 @@
             "fullManagedTypeName": "UnityEditor.Animations.AnimatorController",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -358,8 +358,8 @@
             "fullManagedTypeName": "UnityEditor.MonoScript",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -410,7 +410,7 @@
             "fullManagedTypeName": "UnityEngine.AI.NavMeshAgent",
             "moduleName": "AI",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -419,7 +419,7 @@
             "fullManagedTypeName": "UnityEngine.AI.NavMeshData",
             "moduleName": "AI",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -428,7 +428,7 @@
             "fullManagedTypeName": "UnityEngine.AnimationClip",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -437,7 +437,7 @@
             "fullManagedTypeName": "UnityEngine.Animator",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -446,8 +446,8 @@
             "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
             "moduleName": "Audio",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -456,8 +456,8 @@
             "fullManagedTypeName": "UnityEngine.Audio.AudioResource",
             "moduleName": "Audio",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -466,8 +466,8 @@
             "fullManagedTypeName": "UnityEngine.AudioBehaviour",
             "moduleName": "Audio",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -476,8 +476,8 @@
             "fullManagedTypeName": "UnityEngine.AudioClip",
             "moduleName": "Audio",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -486,8 +486,8 @@
             "fullManagedTypeName": "UnityEngine.AudioListener",
             "moduleName": "Audio",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -496,8 +496,17 @@
             "fullManagedTypeName": "UnityEngine.AudioSource",
             "moduleName": "Audio",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "Avatar",
+            "fullManagedTypeName": "UnityEngine.Avatar",
+            "moduleName": "Animation",
+            "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -506,8 +515,8 @@
             "fullManagedTypeName": "UnityEngine.Behaviour",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -516,8 +525,8 @@
             "fullManagedTypeName": "UnityEngine.BoxCollider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -526,8 +535,8 @@
             "fullManagedTypeName": "UnityEngine.Camera",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -536,8 +545,8 @@
             "fullManagedTypeName": "UnityEngine.Canvas",
             "moduleName": "UI",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -546,8 +555,8 @@
             "fullManagedTypeName": "UnityEngine.CanvasRenderer",
             "moduleName": "UI",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -556,8 +565,8 @@
             "fullManagedTypeName": "UnityEngine.CapsuleCollider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -566,8 +575,8 @@
             "fullManagedTypeName": "UnityEngine.CharacterController",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -576,8 +585,8 @@
             "fullManagedTypeName": "UnityEngine.Collider",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -586,8 +595,8 @@
             "fullManagedTypeName": "UnityEngine.Component",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -605,6 +614,7 @@
             "fullManagedTypeName": "UnityEngine.Cubemap",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
                 "Assets/work/sinse/start_game.unity"
             ]
@@ -636,8 +646,8 @@
             "fullManagedTypeName": "UnityEngine.Font",
             "moduleName": "TextRendering",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -646,8 +656,8 @@
             "fullManagedTypeName": "UnityEngine.GameObject",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -684,7 +694,7 @@
             "fullManagedTypeName": "UnityEngine.Light",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -693,9 +703,9 @@
             "fullManagedTypeName": "UnityEngine.LightmapSettings",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -704,8 +714,8 @@
             "fullManagedTypeName": "UnityEngine.Material",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -714,8 +724,8 @@
             "fullManagedTypeName": "UnityEngine.Mesh",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -724,8 +734,8 @@
             "fullManagedTypeName": "UnityEngine.MeshFilter",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -734,8 +744,8 @@
             "fullManagedTypeName": "UnityEngine.MeshRenderer",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -744,8 +754,8 @@
             "fullManagedTypeName": "UnityEngine.MonoBehaviour",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -754,7 +764,7 @@
             "fullManagedTypeName": "UnityEngine.Motion",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -763,9 +773,9 @@
             "fullManagedTypeName": "UnityEngine.Object",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -781,8 +791,8 @@
             "fullManagedTypeName": "UnityEngine.RectTransform",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -791,8 +801,8 @@
             "fullManagedTypeName": "UnityEngine.Renderer",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -841,13 +851,6 @@
             "managedAssemblyName": "Unity.RenderPipelines.HighDefinition.Runtime.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.Rendering.HighDefinition.Exposure",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Unity.RenderPipelines.HighDefinition.Runtime.dll",
-            "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.Rendering.HighDefinition.Fog",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -924,13 +927,6 @@
         {
             "managedAssemblyName": "Unity.RenderPipelines.HighDefinition.Runtime.dll",
             "nativeClass": "",
-            "fullManagedTypeName": "UnityEngine.Rendering.HighDefinition.StaticLightingSky",
-            "moduleName": "",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "Unity.RenderPipelines.HighDefinition.Runtime.dll",
-            "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.Rendering.HighDefinition.Tonemapping",
             "moduleName": "",
             "usedInScenes": []
@@ -939,6 +935,13 @@
             "managedAssemblyName": "Unity.RenderPipelines.HighDefinition.Runtime.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.Rendering.HighDefinition.VisualEnvironment",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.RenderPipelines.HighDefinition.Runtime.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.HighDefinition.VolumetricClouds",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -1200,9 +1203,9 @@
             "fullManagedTypeName": "UnityEngine.RenderSettings",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -1211,7 +1214,7 @@
             "fullManagedTypeName": "UnityEngine.Rigidbody",
             "moduleName": "Physics",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -1220,7 +1223,7 @@
             "fullManagedTypeName": "UnityEngine.RuntimeAnimatorController",
             "moduleName": "Animation",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -1229,8 +1232,8 @@
             "fullManagedTypeName": "UnityEngine.Shader",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -1239,7 +1242,7 @@
             "fullManagedTypeName": "UnityEngine.SkinnedMeshRenderer",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -1248,8 +1251,8 @@
             "fullManagedTypeName": "UnityEngine.Sprite",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -1258,7 +1261,7 @@
             "fullManagedTypeName": "UnityEngine.Terrain",
             "moduleName": "Terrain",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -1267,7 +1270,7 @@
             "fullManagedTypeName": "UnityEngine.TerrainCollider",
             "moduleName": "TerrainPhysics",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -1276,7 +1279,16 @@
             "fullManagedTypeName": "UnityEngine.TerrainData",
             "moduleName": "Terrain",
             "usedInScenes": [
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity"
+            ]
+        },
+        {
+            "managedAssemblyName": "UnityEngine.dll",
+            "nativeClass": "TerrainLayer",
+            "fullManagedTypeName": "UnityEngine.TerrainLayer",
+            "moduleName": "Terrain",
+            "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity"
             ]
         },
         {
@@ -1285,8 +1297,8 @@
             "fullManagedTypeName": "UnityEngine.TextAsset",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -1295,9 +1307,9 @@
             "fullManagedTypeName": "UnityEngine.Texture",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -1306,9 +1318,9 @@
             "fullManagedTypeName": "UnityEngine.Texture2D",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/work/sinse/lok_1.unity",
                 "Assets/work/sinse/main_menu.unity",
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {
@@ -1324,8 +1336,8 @@
             "fullManagedTypeName": "UnityEngine.Transform",
             "moduleName": "Core",
             "usedInScenes": [
-                "Assets/work/sinse/start_game.unity",
-                "Assets/work/sinse/test.unity"
+                "Assets/work/sinse/lok_1.unity",
+                "Assets/work/sinse/start_game.unity"
             ]
         },
         {

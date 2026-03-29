@@ -9,6 +9,7 @@ public class UI_baza : MonoBehaviour
     [SerializeField] private pl_move player;
 
     [SerializeField] private TMP_Text[] _text;
+    [SerializeField] private GameObject use;
     //[SerializeField] private GameObject xp_max;
     private void Start()
     {
@@ -35,7 +36,10 @@ public class UI_baza : MonoBehaviour
         player._nf_cursor(false);
         player._nf_walk(true);
     }
-
+    public void _used(bool tipe)
+    {
+        use.SetActive(tipe);
+    }
     public void set_info_player(float[] sost)
     {
         for(int i =0;i < _text.Count();i++)

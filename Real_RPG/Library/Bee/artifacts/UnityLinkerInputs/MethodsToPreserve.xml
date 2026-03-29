@@ -67,6 +67,10 @@
 			<method name="smen_lok"/>
 		</type>
 		<type fullname="UI_baza">
+			<method name="smen_window"/>
+			<method name="smen_window"/>
+			<method name="window_off"/>
+			<method name="window_off"/>
 			<method name="window_off"/>
 			<method name="window_off"/>
 			<method name="window_off"/>
@@ -81,6 +85,10 @@
 			<method name="exit"/>
 			<method name="exit"/>
 			<method name="exit"/>
+			<method name="exit"/>
+			<method name="exit"/>
+			<method name="smne_lok"/>
+			<method name="smne_lok"/>
 		</type>
 	</assembly>
 	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">

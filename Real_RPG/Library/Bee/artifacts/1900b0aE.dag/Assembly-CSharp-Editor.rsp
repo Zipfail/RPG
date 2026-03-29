@@ -135,6 +135,7 @@
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_FONT_ENGINE_1_6_OR_NEWER
 -define:APP_UI_EDITOR_ONLY
+-define:STARTER_ASSETS_PACKAGES_CHECKED
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -define:UNITY_EDITOR_ONLY_COMPILATION
@@ -448,6 +449,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.AppUI.Undo.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Cinemachine.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
@@ -483,6 +486,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Serialization.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Settings.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.ShaderGraph.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Splines.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Splines.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll"
@@ -513,6 +518,13 @@
 -analyzer:"Library/PackageCache/com.unity.ai.inference@e760aa121ec7/Runtime/Core/SourceGenerator/SourceGenerators.dll"
 -analyzer:"Library/PackageCache/com.unity.dt.app-ui@8ac7e730dd5d/Runtime/MVVM/SourceGenerators/netstandard2.0/MVVMSourceGenerators.dll"
 -analyzer:"Library/PackageCache/com.unity.dt.app-ui@8ac7e730dd5d/Runtime/SourceGenerators/netstandard2.0/EnumToLowerCase.dll"
+"Assets/Nicrom/Shaders/Wind/Assets/Editor/Scripts/LPVegetationTransparent_MaterialInspector.cs"
+"Assets/Nicrom/Shaders/Wind/Assets/Editor/Scripts/LPVegetation_MaterialInspector.cs"
+"Assets/Nicrom/Shaders/Wind/Assets/Editor/Scripts/TextArea_Editor.cs"
+"Assets/Survivalist/StarterAssets/Editor/PackageChecker/PackageChecker.cs"
+"Assets/Survivalist/StarterAssets/Editor/ScriptingDefineUtils.cs"
+"Assets/Survivalist/StarterAssets/Editor/StarterAssetsDeployMenu.cs"
+"Assets/Survivalist/StarterAssets/Editor/ThirdPersonStarterAssetsDeployMenu.cs"
 "Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs"
 -langversion:9.0
 /deterministic

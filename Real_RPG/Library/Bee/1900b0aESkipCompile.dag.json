@@ -29,7 +29,7 @@
       "DisplayName": "Writing 6097564273297756792.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 13213,
+      "PayloadLength": 13439,
       "PayloadDebugContentSnippet": "-a=\"C:\\Users\\skond\\OneDrive\\Д",
       "Inputs": [],
       "InputFlags": [],
@@ -66,6 +66,7 @@
         "Library/ScriptAssemblies/Unity.AppUI.Redux.dll",
         "Library/ScriptAssemblies/Unity.AppUI.Undo.dll",
         "Library/ScriptAssemblies/Unity.Burst.dll",
+        "Library/ScriptAssemblies/Unity.Cinemachine.dll",
         "Library/ScriptAssemblies/Unity.Collections.dll",
         "Library/ScriptAssemblies/Unity.InferenceEngine.dll",
         "Library/ScriptAssemblies/Unity.InferenceEngine.iOSBLAS.dll",
@@ -86,6 +87,7 @@
         "Library/ScriptAssemblies/Unity.RenderPipelines.HighDefinition.Runtime.dll",
         "Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll",
         "Library/ScriptAssemblies/Unity.Serialization.dll",
+        "Library/ScriptAssemblies/Unity.Splines.dll",
         "Library/ScriptAssemblies/Unity.TextMeshPro.dll",
         "Library/ScriptAssemblies/Unity.Timeline.dll",
         "Library/ScriptAssemblies/Unity.UnifiedRayTracing.Runtime.dll",
@@ -127,6 +129,8 @@
         "Library/Bee/artifacts/rsp/6097564273297756792.rsp"
       ],
       "InputFlags": [
+        0,
+        0,
         0,
         0,
         0,
@@ -495,6 +499,9 @@
       "File": "Library/ScriptAssemblies/Unity.Burst.dll"
     },
     {
+      "File": "Library/ScriptAssemblies/Unity.Cinemachine.dll"
+    },
+    {
       "File": "Library/ScriptAssemblies/Unity.Collections.dll"
     },
     {
@@ -553,6 +560,9 @@
     },
     {
       "File": "Library/ScriptAssemblies/Unity.Serialization.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.Splines.dll"
     },
     {
       "File": "Library/ScriptAssemblies/Unity.TextMeshPro.dll"

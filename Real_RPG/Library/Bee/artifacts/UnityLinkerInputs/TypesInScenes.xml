@@ -3,11 +3,11 @@
 		<type fullname="bac_sound" preserve="nothing"/>
 		<type fullname="dont_destro_on_load" preserve="nothing"/>
 		<type fullname="gn_sword" preserve="nothing"/>
-		<type fullname="gn_vintovka" preserve="nothing"/>
 		<type fullname="inv_baza" preserve="nothing"/>
 		<type fullname="inv_slot" preserve="nothing"/>
-		<type fullname="item_medkit" preserve="nothing"/>
+		<type fullname="item_xolder" preserve="nothing"/>
 		<type fullname="kv_kvest_item" preserve="nothing"/>
+		<type fullname="kv_kvest_kill_entiti" preserve="nothing"/>
 		<type fullname="kv_nagrada_smen_bool" preserve="nothing"/>
 		<type fullname="kv_nagrada_sot" preserve="nothing"/>
 		<type fullname="ms_door" preserve="nothing"/>
@@ -19,7 +19,7 @@
 		<type fullname="ss_smena_loki" preserve="nothing"/>
 		<type fullname="UI_baza" preserve="nothing"/>
 		<type fullname="UI_dialog" preserve="nothing"/>
-		<type fullname="UI_zapispa" preserve="nothing"/>
+		<type fullname="UI_human" preserve="nothing"/>
 		<type fullname="UITL_baz_tool" preserve="nothing"/>
 		<type fullname="vr_baza" preserve="nothing"/>
 		<type fullname="vr_move" preserve="nothing"/>
@@ -78,7 +78,6 @@
 		<type fullname="UnityEngine.Rendering.HighDefinition.DiffusionProfileList" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.DiffusionProfileSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.Exposure" preserve="nothing"/>
-		<type fullname="UnityEngine.Rendering.HighDefinition.Fog" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.HDAdditionalCameraData" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.HDAdditionalLightData" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset" preserve="nothing"/>
@@ -89,9 +88,9 @@
 		<type fullname="UnityEngine.Rendering.HighDefinition.MotionBlur" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.PhysicallyBasedSky" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.ScreenSpaceAmbientOcclusion" preserve="nothing"/>
-		<type fullname="UnityEngine.Rendering.HighDefinition.StaticLightingSky" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.Tonemapping" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.VisualEnvironment" preserve="nothing"/>
+		<type fullname="UnityEngine.Rendering.HighDefinition.VolumetricClouds" preserve="nothing"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.WaterRendering" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.TextMeshPro">
@@ -126,6 +125,7 @@
 		<type fullname="UnityEngine.AudioClip" preserve="nothing"/>
 		<type fullname="UnityEngine.AudioListener" preserve="nothing"/>
 		<type fullname="UnityEngine.AudioSource" preserve="nothing"/>
+		<type fullname="UnityEngine.Avatar" preserve="nothing"/>
 		<type fullname="UnityEngine.Behaviour" preserve="nothing"/>
 		<type fullname="UnityEngine.BoxCollider" preserve="nothing"/>
 		<type fullname="UnityEngine.Camera" preserve="nothing"/>
@@ -161,6 +161,7 @@
 		<type fullname="UnityEngine.Terrain" preserve="nothing"/>
 		<type fullname="UnityEngine.TerrainCollider" preserve="nothing"/>
 		<type fullname="UnityEngine.TerrainData" preserve="nothing"/>
+		<type fullname="UnityEngine.TerrainLayer" preserve="nothing"/>
 		<type fullname="UnityEngine.TextAsset" preserve="nothing"/>
 		<type fullname="UnityEngine.Texture" preserve="nothing"/>
 		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>

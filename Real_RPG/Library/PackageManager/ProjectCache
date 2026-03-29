@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639097261550713020
-    m_Hash: 1423907461
+      ticks: 639103264019682201
+    m_Hash: 276222681
   m_LockFileStatus:
     m_FilePath: "C:/Users/skond/OneDrive/\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B/GitHub/RPG/Real_RPG/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639097261550762890
-    m_Hash: 2190619209
+      ticks: 639103264021173648
+    m_Hash: 3597762592
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -85,6 +85,8 @@ m_ResolvedPackages:
     - 2.0.0-pre.1
     - 2.1.0-pre.1
     - 2.2.0-pre.1
+    - 2.3.0-pre.1
+    - 2.3.0-pre.2
     compatible:
     - 1.0.0-pre.2
     - 1.0.0-pre.3
@@ -106,7 +108,9 @@ m_ResolvedPackages:
     - 2.0.0-pre.1
     - 2.1.0-pre.1
     - 2.2.0-pre.1
-    recommended: 2.2.0-pre.1
+    - 2.3.0-pre.1
+    - 2.3.0-pre.2
+    recommended: 2.3.0-pre.2
     deprecated: []
   dependencies:
   - name: com.unity.2d.sprite
@@ -187,7 +191,7 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-    recommendedVersion: 2.2.0-pre.1
+    recommendedVersion: 2.3.0-pre.2
     isDeprecated: 0
     deprecationMessage: 
     isDiscoverable: 1
@@ -542,6 +546,240 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 2.0.10
     minimumUnityVersion: 6000.0
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.cinemachine@3.1.6
+  testable: 0
+  isDirectDependency: 1
+  version: 3.1.6
+  source: 1
+  resolvedPath: "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Library\\PackageCache\\com.unity.cinemachine@285f38545487"
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: 
+  description: "Smart camera tools for passionate creators. \n\nCinemachine 3 is
+    a newer and better version of Cinemachine, but upgrading an existing project
+    from 2.X will likely require some effort.  If you're considering upgrading an
+    older project, please see our upgrade guide in the user manual."
+  errors: []
+  versions:
+    all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.6.4
+    - 2.6.5
+    - 2.6.9
+    - 2.6.10
+    - 2.6.11
+    - 2.6.14
+    - 2.6.15
+    - 2.6.17
+    - 2.7.1
+    - 2.7.2
+    - 2.7.3
+    - 2.7.4
+    - 2.7.5
+    - 2.7.8
+    - 2.7.9
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
+    - 2.8.0-pre.1
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.8.6
+    - 2.8.9
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    - 2.9.1
+    - 2.9.2
+    - 2.9.4
+    - 2.9.5
+    - 2.9.7
+    - 2.10.0
+    - 2.10.1
+    - 2.10.2
+    - 2.10.3
+    - 2.10.4
+    - 2.10.5
+    - 2.10.6
+    - 2.10.7
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
+    - 3.1.4
+    - 3.1.5
+    - 3.1.6
+    compatible:
+    - 2.10.5
+    - 2.10.6
+    - 2.10.7
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
+    - 3.1.4
+    - 3.1.5
+    - 3.1.6
+    recommended: 3.1.6
+    deprecated: []
+  dependencies:
+  - name: com.unity.splines
+    version: 2.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.splines
+    version: 2.8.3
+  - name: com.unity.mathematics
+    version: 1.3.3
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.1
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 639076318093840000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.cinemachine@3.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+    revision: 293f7764a9c6e9f087fad05023a586dcfdc1939b
+    path: 
+  unityLifecycle:
+    version: 2.10.5
+    nextVersion: 
+    recommendedVersion: 3.1.0
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Bugfixes\n- Fixed look at being ignored in third
+    person camera when camera is navel gazing.\n- Fixed error when both HDRP and
+    URP rendering pipelines are added to a project.\\\n- Fixed outdated warning on
+    RotationComposerComponent.\n- Fixed GC Alloc in CinemachineInputAxisController.Update().\n-
+    Fixed ForceCameraPosition regression in CinemachineFollow/CinemachineOrbitalFollow/CinemachineTransposer/CinemachineOrbitalTransposer
+    to allow looking away from targets.\n\n### Changed\n- Converted code using InstanceID
+    references and API to EntityID."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 285f385454873b7d4509f804a9b4c840e834066a
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.10.5
+    minimumUnityVersion: 2022.3
   compliance:
     status: 0
     violation:
@@ -6359,6 +6597,148 @@ m_ResolvedPackages:
       scopePatternExpression: 
       message: 
       readMoreLink: 
+- packageId: com.unity.splines@2.8.3
+  testable: 0
+  isDirectDependency: 0
+  version: 2.8.3
+  source: 1
+  resolvedPath: "C:\\Users\\skond\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\RPG\\Real_RPG\\Library\\PackageCache\\com.unity.splines@56b2023b4b9f"
+  assetPath: Packages/com.unity.splines
+  name: com.unity.splines
+  displayName: Splines
+  author:
+    name: 
+    email: 
+    url: 
+  category: Tool
+  type: 
+  description: Work with curves and paths. Use the Splines package to generate objects
+    and behaviors along paths, create trajectories, and draw shapes.
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.1
+    - 1.0.0-pre.5
+    - 1.0.0-pre.7
+    - 1.0.0-pre.8
+    - 1.0.0-pre.9
+    - 1.0.0
+    - 1.0.1
+    - 2.0.0-pre.2
+    - 2.0.0-pre.4
+    - 2.0.0
+    - 2.1.0
+    - 2.2.0
+    - 2.2.1
+    - 2.3.0
+    - 2.4.0
+    - 2.5.1
+    - 2.5.2
+    - 2.6.0
+    - 2.6.1
+    - 2.7.1
+    - 2.7.2
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    compatible:
+    - 2.8.3
+    - 2.8.4
+    recommended: 2.8.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.mathematics
+    version: 1.2.1
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 1.0.3
+  resolvedDependencies:
+  - name: com.unity.mathematics
+    version: 1.3.3
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 2.1.1
+  keywords:
+  - spline
+  - curve
+  - path
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 639064372863710000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.splines@2.8/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.splines.git
+    revision: b4abf42c18a2b555ebf4e93b2069832e75dff984
+    path: 
+  unityLifecycle:
+    version: 2.8.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: '{"changelog":"### Fixed\n- [SPLB-374] Fixed a bug where spline tool
+    shortcuts would be active in the Scene view even when outside the context of
+    the spline tools.\n- [SPLB-370] Fixed incorrect tangent values when using `SplineUtility.FitSplineToPoints`.\n-
+    [SPLB-365] `EditorSplineUtility.SetKnotPlacementTool` correctly assigns the create
+    spline tool.\n- [SPLB-364] Fixed null reference & lockup when instantiating children
+    of SplineInstantiate component, when components gameobject is a prefab instance.\n-
+    [UUM-131876] Fixed a memory leak introduced in 2.8.2 that occurred when a Spline
+    became dirty.\n- [UUM-132208] Fixed a crash that occurred when a Prefab Variant
+    asset was used with a SplineInstantiate component.\n- [UUM-133630] Fixed the
+    help icon for splines components (SplineAnimate, SplineContainer, SplineExtrude,
+    SplineInstantiate) pointing to the wrong documentation link. It now points to
+    https://docs.unity3d.com/Packages/com.unity.splines@latest.\n\n### Changed\n-
+    [UUM-132118] Replaced internal use of InstanceIDs with the new EntityId (Unity
+    6.4+)."}'
+  signature:
+    status: 1
+    reason: Signature is ok
+    attestation:
+      format: archive
+      publishingChannel: unity
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: 56b2023b4b9fd77fdc5b5ed3a4b62c388d76931c
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.8.3
+    minimumUnityVersion: 2022.3
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
 - packageId: com.unity.burst@1.8.28
   testable: 0
   isDirectDependency: 0
@@ -6724,12 +7104,14 @@ m_ResolvedPackages:
     - 2.1.5
     - 2.1.6
     - 2.1.7
+    - 2.1.8
     - 2.2.0-pre.1
     - 2.2.0-pre.2
     - 2.2.0-pre.3
     - 2.2.0-pre.4
     - 2.2.0-pre.5
     - 2.2.0-pre.6
+    - 2.2.0-pre.7
     compatible:
     - 2.1.1
     - 2.1.2
@@ -6738,13 +7120,15 @@ m_ResolvedPackages:
     - 2.1.5
     - 2.1.6
     - 2.1.7
+    - 2.1.8
     - 2.2.0-pre.1
     - 2.2.0-pre.2
     - 2.2.0-pre.3
     - 2.2.0-pre.4
     - 2.2.0-pre.5
     - 2.2.0-pre.6
-    recommended: 2.1.7
+    - 2.2.0-pre.7
+    recommended: 2.1.8
     deprecated: []
   dependencies:
   - name: com.unity.modules.physics
@@ -7421,12 +7805,14 @@ m_ResolvedPackages:
     - 6.15.1
     - 6.16.0
     - 6.16.1
+    - 6.17.0
     compatible:
     - 6.14.1
     - 6.15.0
     - 6.15.1
     - 6.16.0
     - 6.16.1
+    - 6.17.0
     recommended: 6.14.1
     deprecated: []
   dependencies:
@@ -8171,10 +8557,12 @@ m_ResolvedPackages:
     - 3.2.0
     - 3.2.1
     - 3.3.0
+    - 3.4.0
     compatible:
     - 3.2.0
     - 3.2.1
     - 3.3.0
+    - 3.4.0
     recommended: 3.2.1
     deprecated: []
   dependencies:

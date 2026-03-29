@@ -127,6 +127,7 @@
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_FONT_ENGINE_1_6_OR_NEWER
 -define:APP_UI_EDITOR_ONLY
+-define:STARTER_ASSETS_PACKAGES_CHECKED
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
@@ -343,6 +344,7 @@
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.AI.Navigation.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.AI.Tracing.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.Burst.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aP.dag/Unity.Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.Collections.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.InferenceEngine.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.InferenceEngine.Tokenization.ref.dll"
@@ -359,6 +361,7 @@
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.RenderPipelines.HighDefinition.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.Serialization.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aP.dag/Unity.Splines.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.TextMeshPro.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.Timeline.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aP.dag/Unity.UnifiedRayTracing.Runtime.ref.dll"
@@ -373,6 +376,10 @@
 -analyzer:"Library/PackageCache/com.unity.ai.inference@e760aa121ec7/Runtime/Core/SourceGenerator/SourceGenerators.dll"
 "Assets/Blink/Art/Animals/Stylized/Demo_Animals/DemoData/AnimationDemo.cs"
 "Assets/NewPunch/ShirtlessZombieFree/Scripts/FreeZombie_EyesGlow.cs"
+"Assets/Nicrom/Shaders/Wind/Assets/Scripts/TextArea.cs"
+"Assets/Survivalist/StarterAssets/InputSystem/StarterAssetsInputs.cs"
+"Assets/Survivalist/StarterAssets/ThirdPersonController/Scripts/BasicRigidBodyPush.cs"
+"Assets/Survivalist/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
@@ -408,6 +415,7 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
+"Assets/work/skript/enemy/baza/vr_attac.cs"
 "Assets/work/skript/enemy/baza/vr_baza.cs"
 "Assets/work/skript/enemy/baza/vr_telo.cs"
 "Assets/work/skript/enemy/midle/vr_move.cs"
@@ -422,15 +430,18 @@
 "Assets/work/skript/player/midle/UI/UI_baza.cs"
 "Assets/work/skript/player/midle/UI/UI_dialog.cs"
 "Assets/work/skript/player/midle/UI/UI_exit.cs"
+"Assets/work/skript/player/midle/UI/UI_human.cs"
 "Assets/work/skript/player/midle/UI/UI_zapispa.cs"
 "Assets/work/skript/player/xard/inventar/inv_baza.cs"
 "Assets/work/skript/player/xard/inventar/inv_item.cs"
 "Assets/work/skript/player/xard/inventar/inv_slot.cs"
 "Assets/work/skript/player/xard/inventar/item/item_medkit.cs"
+"Assets/work/skript/player/xard/inventar/item/item_xolder.cs"
 "Assets/work/skript/tex/bac_sound.cs"
 "Assets/work/skript/tex/dont_destro_on_load.cs"
 "Assets/work/skript/tex/entiti.cs"
 "Assets/work/skript/tex/kvest/kvest/kv_kvest_item.cs"
+"Assets/work/skript/tex/kvest/kvest/kv_kvest_kill_entiti.cs"
 "Assets/work/skript/tex/kvest/kv_kvest.cs"
 "Assets/work/skript/tex/kvest/kv_nagrada.cs"
 "Assets/work/skript/tex/kvest/nagrada/kv_nagrada_smen_bool.cs"

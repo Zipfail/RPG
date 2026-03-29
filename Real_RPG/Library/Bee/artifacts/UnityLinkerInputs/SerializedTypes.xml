@@ -45,6 +45,7 @@
 		<type fullname="UnityEngine.Rendering.STP/RuntimeResources" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.Texture2DParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.Texture3DParameter" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.TextureParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.UI.DebugUIPrefabBundle" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.Vector2Parameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.Vector3Parameter" preserve="nothing" serialized="true"/>
@@ -80,9 +81,6 @@
 		<type fullname="UnityEngine.Rendering.HighDefinition.ExposureModeParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.FallbackHDRTonemapParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.FloatScalableSetting" preserve="nothing" serialized="true"/>
-		<type fullname="UnityEngine.Rendering.HighDefinition.FogColorParameter" preserve="nothing" serialized="true"/>
-		<type fullname="UnityEngine.Rendering.HighDefinition.FogControlParameter" preserve="nothing" serialized="true"/>
-		<type fullname="UnityEngine.Rendering.HighDefinition.FogDenoisingModeParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.FogTypeParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.FrameSettings" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.FrameSettingsOverrideMask" preserve="nothing" serialized="true"/>
@@ -141,6 +139,13 @@
 		<type fullname="UnityEngine.Rendering.HighDefinition.TonemappingModeParameter" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.VirtualTexturingSettingsSRP" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.VisualEnvironment/PlanetMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudControl" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudErosionNoise" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudFadeInMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudMapResolution" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudPresets" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudShadowResolution" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Rendering.HighDefinition.VolumetricClouds/CloudSimpleMode" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.VolumetricCloudsRuntimeResources" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.WaterSystemGlobalSettings" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.Rendering.HighDefinition.WaterSystemRuntimeResources" preserve="nothing" serialized="true"/>

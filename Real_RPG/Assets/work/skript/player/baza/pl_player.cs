@@ -60,12 +60,9 @@ public class pl_player : entiti
             _hit_tag = hit.transform.tag;
             switch (_hit_tag)
             {
-                /*
-                case "":
-                    
+                case "Weapon":
                     _interact_e=true;
                     break;
-                */
             }
 
             if (hit.transform.GetComponent<inv_item>())
@@ -85,15 +82,21 @@ public class pl_player : entiti
                 }
                 _interact_e = true;
             }
-            else if (hit.transform.GetComponent<UI_dialog>())
+            else if (hit.transform.GetComponent<UI_human>())
             {
                 if (Input.GetKeyDown(KeyCode.E))
                 {
-                    hit.transform.GetComponent<UI_dialog>()._start_diolog();
+                    hit.transform.GetComponent<UI_human>()._smen();
                 }
                 _interact_e = true;
             }
+
         }
+
+        UI._used(_interact_e);
+
+
+
 
     }
     /*tstic unsafe void Main() using system
@@ -101,7 +104,7 @@ public class pl_player : entiti
     */
     protected override void death()
     {
-        print("player death");
+        UI.smen_window(6);
     }
 
     public void _add_ex(float yy)
